@@ -1,6 +1,6 @@
 Exploratory data analysis: Generate insight of movie genres for Microsoft
 
-*Introduction*
+_Introduction_
 
 Microsoft is an American multinational computer technology corporation whose history started 4th April 1975. Formed by Harvard College dropout, Bill Gates and his childhood friend Paul Allen, Microsoft has now become the biggest software company. It is also one of the most valuable companies in the world.Microsoft is engaged in developing, licensing and supporting a range of software products and services catering to different requirements.Although the company recognised that they had a major presence in consumer markets as technology advances.
 
